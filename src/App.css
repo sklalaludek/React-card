@@ -1,0 +1,18 @@
+.card {
+    margin: 1em;
+}
+
+.card__img {
+    width: 75px;   
+}
+
+.card__info {
+    display: inline-block;
+    margin-left: 10px;
+    vertical-align: top;
+}
+
+.card__name {
+    font-size: 1.25em;
+    font-weight: bold;
+}
